@@ -1218,4 +1218,5 @@ const CITY_NAMES_LIST = [
   "Zunheboto",
 ];
 
+export const DATE_LIMT=5;
 export default CITY_NAMES_LIST;

@@ -1,0 +1,15 @@
+#card-title{
+    background-color: orange;
+    color: white;
+    border: "1px solid black";
+}
+#temp-info{
+    background-color: gray;
+    color: white;
+    border-color: "10px solid black";
+}
+.enable-border{
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+}
